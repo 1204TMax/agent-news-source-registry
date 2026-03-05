@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgentNewsSource",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "url",
+    "type",
+    "type_tags",
+    "task_tags",
+    "coverage_topics",
+    "reliability_score",
+    "signal_to_noise",
+    "active"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "type": {
+      "type": "string"
+    },
+    "type_tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "task_tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "coverage_topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "region": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "reliability_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "signal_to_noise": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "update_frequency": {
+      "type": "string"
+    },
+    "bias_profile": {
+      "type": "string"
+    },
+    "agent_use_cases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "active": {
+      "type": "boolean"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+name: link-check
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check URLs
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request
+          from pathlib import Path
+          bad=[]
+          for l in Path('data/sources.jsonl').read_text(encoding='utf-8').splitlines():
+            if not l.strip(): continue
+            o=json.loads(l)
+            url=o['url']
+            try:
+              req=urllib.request.Request(url, method='HEAD', headers={'User-Agent':'Mozilla/5.0'})
+              urllib.request.urlopen(req, timeout=10)
+            except Exception:
+              bad.append(url)
+          print('bad:', len(bad))
+          if bad:
+            print('
+'.join(bad[:50]))
+          PY

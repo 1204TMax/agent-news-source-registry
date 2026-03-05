@@ -1,0 +1,4580 @@
+[
+  {
+    "id": "abc-news",
+    "name": "ABC News",
+    "url": "https://abcnews.go.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "abc-news-australia",
+    "name": "ABC News Australia",
+    "url": "https://abc.net.au/news",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "aei",
+    "name": "AEI",
+    "url": "https://www.aei.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ai-news",
+    "name": "AI News",
+    "url": "https://www.artificialintelligence-news.com",
+    "type": "media",
+    "type_tags": [
+      "AI科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "al-jazeera",
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ap-mexico",
+    "name": "AP Mexico",
+    "url": "https://apnews.com/hub/latin-america",
+    "type": "media",
+    "type_tags": [
+      "通讯社地区分发"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.86,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ap-news",
+    "name": "AP News",
+    "url": "https://apnews.com",
+    "type": "media",
+    "type_tags": [
+      "通讯社"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.86,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "arab-news",
+    "name": "Arab News",
+    "url": "https://www.arabnews.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "arms-control-assn",
+    "name": "Arms Control Assn",
+    "url": "https://www.armscontrol.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库/军控"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ars-technica",
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com",
+    "type": "media",
+    "type_tags": [
+      "科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "arxiv-ai",
+    "name": "ArXiv AI",
+    "url": "https://arxiv.org",
+    "type": "research",
+    "type_tags": [
+      "学术论文源"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "asahi-shimbun",
+    "name": "Asahi Shimbun",
+    "url": "https://www.asahi.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "asharq-business",
+    "name": "Asharq Business",
+    "url": "https://asharqbusiness.com",
+    "type": "media",
+    "type_tags": [
+      "财经媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "atlantic-council",
+    "name": "Atlantic Council",
+    "url": "https://www.atlanticcouncil.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "axios",
+    "name": "Axios",
+    "url": "https://www.axios.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bangkok-post",
+    "name": "Bangkok Post",
+    "url": "https://www.bangkokpost.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-africa",
+    "name": "BBC Africa",
+    "url": "https://www.bbc.com/news/world/africa",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-afrique",
+    "name": "BBC Afrique",
+    "url": "https://www.bbc.com/afrique",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-asia",
+    "name": "BBC Asia",
+    "url": "https://www.bbc.com/news/world/asia",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-latin-america",
+    "name": "BBC Latin America",
+    "url": "https://www.bbc.com/news/world/latin_america",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-middle-east",
+    "name": "BBC Middle East",
+    "url": "https://www.bbc.com/news/world/middle_east",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-mundo",
+    "name": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-russian",
+    "name": "BBC Russian",
+    "url": "https://www.bbc.com/russian",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-turkce",
+    "name": "BBC Turkce",
+    "url": "https://www.bbc.com/turkce",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC World",
+    "url": "https://www.bbc.com/news/world",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bellingcat",
+    "name": "Bellingcat",
+    "url": "https://www.bellingcat.com",
+    "type": "media",
+    "type_tags": [
+      "调查媒体/OSINT"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bild",
+    "name": "Bild",
+    "url": "https://www.bild.de",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "brasil-paralelo",
+    "name": "Brasil Paralelo",
+    "url": "https://www.brasilparalelo.com.br",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "breaking-defense",
+    "name": "Breaking Defense",
+    "url": "https://breakingdefense.com",
+    "type": "media",
+    "type_tags": [
+      "军工/国防媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "bulletin-of-atomic-scientists",
+    "name": "Bulletin of Atomic Scientists",
+    "url": "https://thebulletin.org",
+    "type": "media",
+    "type_tags": [
+      "科学政策媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cbs-news",
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "chatham-house",
+    "name": "Chatham House",
+    "url": "https://www.chathamhouse.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "chosun-ilbo",
+    "name": "Chosun Ilbo",
+    "url": "https://www.chosun.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cisa",
+    "name": "CISA",
+    "url": "https://www.cisa.gov",
+    "type": "government",
+    "type_tags": [
+      "政府网络安全机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cna",
+    "name": "CNA",
+    "url": "https://www.channelnewsasia.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cnas",
+    "name": "CNAS",
+    "url": "https://www.cnas.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "url": "https://www.cnbc.com",
+    "type": "media",
+    "type_tags": [
+      "财经媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "cnn-world",
+    "name": "CNN World",
+    "url": "https://edition.cnn.com/world",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "corriere-della-sera",
+    "name": "Corriere della Sera",
+    "url": "https://www.corriere.it",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "crisiswatch",
+    "name": "CrisisWatch",
+    "url": "https://www.crisisgroup.org/crisiswatch",
+    "type": "aggregator",
+    "type_tags": [
+      "聚合/专题监测"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.6,
+    "signal_to_noise": 0.55,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "discovery"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "dagens-nyheter",
+    "name": "Dagens Nyheter",
+    "url": "https://www.dn.se",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "daily-trust",
+    "name": "Daily Trust",
+    "url": "https://dailytrust.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "de-telegraaf",
+    "name": "De Telegraaf",
+    "url": "https://www.telegraaf.nl",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "defense-news",
+    "name": "Defense News",
+    "url": "https://www.defensenews.com",
+    "type": "media",
+    "type_tags": [
+      "国防媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "defense-one",
+    "name": "Defense One",
+    "url": "https://www.defenseone.com",
+    "type": "media",
+    "type_tags": [
+      "国防安全媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "der-spiegel",
+    "name": "Der Spiegel",
+    "url": "https://www.spiegel.de",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "dhs",
+    "name": "DHS",
+    "url": "https://www.dhs.gov",
+    "type": "government",
+    "type_tags": [
+      "政府机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "die-zeit",
+    "name": "Die Zeit",
+    "url": "https://www.zeit.de",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "dw-news",
+    "name": "DW News",
+    "url": "https://www.dw.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "dw-turkish",
+    "name": "DW Turkish",
+    "url": "https://www.dw.com/tr",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ecfr",
+    "name": "ECFR",
+    "url": "https://ecfr.eu",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "el-mundo",
+    "name": "El Mundo",
+    "url": "https://www.elmundo.es",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "el-pa-s",
+    "name": "El País",
+    "url": "https://elpais.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "el-tiempo",
+    "name": "El Tiempo",
+    "url": "https://www.eltiempo.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "eu-iss",
+    "name": "EU ISS",
+    "url": "https://www.iss.europa.eu",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "euronews",
+    "name": "EuroNews",
+    "url": "https://www.euronews.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fao-giews",
+    "name": "FAO GIEWS",
+    "url": "https://www.fao.org/giews",
+    "type": "international-org",
+    "type_tags": [
+      "国际组织/粮农信息"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fao-news",
+    "name": "FAO News",
+    "url": "https://www.fao.org/news",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fars-news",
+    "name": "Fars News",
+    "url": "https://www.farsnews.ir/en",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fas",
+    "name": "FAS",
+    "url": "https://fas.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库/政策研究"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "federal-reserve",
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov",
+    "type": "government",
+    "type_tags": [
+      "政府机构/央行"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fema",
+    "name": "FEMA",
+    "url": "https://www.fema.gov",
+    "type": "government",
+    "type_tags": [
+      "政府应急机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "financial-times",
+    "name": "Financial Times",
+    "url": "https://www.ft.com",
+    "type": "media",
+    "type_tags": [
+      "财经媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "folha-de-s-paulo",
+    "name": "Folha de S.Paulo",
+    "url": "https://www.folha.uol.com.br",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "foreign-affairs",
+    "name": "Foreign Affairs",
+    "url": "https://www.foreignaffairs.com",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "foreign-policy",
+    "name": "Foreign Policy",
+    "url": "https://foreignpolicy.com",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fox-news",
+    "name": "Fox News",
+    "url": "https://www.foxnews.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "fpri",
+    "name": "FPRI",
+    "url": "https://www.fpri.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "france-24",
+    "name": "France 24",
+    "url": "https://www.france24.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "france-24-latam",
+    "name": "France 24 LatAm",
+    "url": "https://www.france24.com/es",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "gcaptain",
+    "name": "gCaptain",
+    "url": "https://gcaptain.com",
+    "type": "media",
+    "type_tags": [
+      "航运行业媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "gmf",
+    "name": "GMF",
+    "url": "https://www.gmfus.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "guardian-americas",
+    "name": "Guardian Americas",
+    "url": "https://www.theguardian.com/world/americas",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "guardian-australia",
+    "name": "Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "guardian-me",
+    "name": "Guardian ME",
+    "url": "https://www.theguardian.com/world/middleeast",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "guardian-world",
+    "name": "Guardian World",
+    "url": "https://www.theguardian.com/world",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "type": "aggregator",
+    "type_tags": [
+      "技术社区聚合"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.6,
+    "signal_to_noise": 0.55,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "discovery"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "hurriyet",
+    "name": "Hurriyet",
+    "url": "https://www.hurriyet.com.tr",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "iaea",
+    "name": "IAEA",
+    "url": "https://www.iaea.org",
+    "type": "international-org",
+    "type_tags": [
+      "国际组织"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "iefimerida",
+    "name": "iefimerida",
+    "url": "https://www.iefimerida.gr",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "in-gr",
+    "name": "in.gr",
+    "url": "https://www.in.gr",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "india-news-network",
+    "name": "India News Network",
+    "url": "https://www.india.com/news",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "indian-express",
+    "name": "Indian Express",
+    "url": "https://indianexpress.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "island-times-palau",
+    "name": "Island Times (Palau)",
+    "url": "https://islandtimes.org",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "jamestown",
+    "name": "Jamestown",
+    "url": "https://jamestown.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "janes",
+    "name": "Janes",
+    "url": "https://www.janes.com",
+    "type": "media",
+    "type_tags": [
+      "国防情报媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "japan-today",
+    "name": "Japan Today",
+    "url": "https://japantoday.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "kathimerini",
+    "name": "Kathimerini",
+    "url": "https://www.ekathimerini.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "krebs-security",
+    "name": "Krebs Security",
+    "url": "https://krebsonsecurity.com",
+    "type": "security-intel",
+    "type_tags": [
+      "网络安全媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "kyiv-independent",
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "la-silla-vac-a",
+    "name": "La Silla Vacía",
+    "url": "https://www.lasillavacia.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "latin-america",
+    "name": "Latin America",
+    "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRxYUdjU0FtVnVLQUFQAQ",
+    "type": "aggregator",
+    "type_tags": [
+      "聚合/专题监测"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.6,
+    "signal_to_noise": 0.55,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "discovery"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "le-monde",
+    "name": "Le Monde",
+    "url": "https://www.lemonde.fr",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "lowy-institute",
+    "name": "Lowy Institute",
+    "url": "https://www.lowyinstitute.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "marketwatch",
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com",
+    "type": "media",
+    "type_tags": [
+      "财经媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "meduza",
+    "name": "Meduza",
+    "url": "https://meduza.io/en",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "mexico-security",
+    "name": "Mexico Security",
+    "url": "https://www.insightcrime.org/mexico-organized-crime-news",
+    "type": "aggregator",
+    "type_tags": [
+      "聚合/专题监测"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.6,
+    "signal_to_noise": 0.55,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "discovery"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "middle-east-institute",
+    "name": "Middle East Institute",
+    "url": "https://www.mei.edu",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "military-times",
+    "name": "Military Times",
+    "url": "https://www.militarytimes.com",
+    "type": "media",
+    "type_tags": [
+      "军事媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Tech Review",
+    "url": "https://www.technologyreview.com",
+    "type": "media",
+    "type_tags": [
+      "科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "moscow-times",
+    "name": "Moscow Times",
+    "url": "https://www.themoscowtimes.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "naftemporiki",
+    "name": "Naftemporiki",
+    "url": "https://www.naftemporiki.gr",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "nbc-news",
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ndtv",
+    "name": "NDTV",
+    "url": "https://www.ndtv.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "news24",
+    "name": "News24",
+    "url": "https://www.news24.com",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "nikkei-asia",
+    "name": "Nikkei Asia",
+    "url": "https://asia.nikkei.com",
+    "type": "media",
+    "type_tags": [
+      "财经/亚洲新闻"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "novaya-gazeta-europe",
+    "name": "Novaya Gazeta Europe",
+    "url": "https://novayagazeta.eu",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "npr-news",
+    "name": "NPR News",
+    "url": "https://www.npr.org",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "nrc",
+    "name": "NRC",
+    "url": "https://www.nrc.nl",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "nti",
+    "name": "NTI",
+    "url": "https://www.nti.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库/核安全"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "o-globo",
+    "name": "O Globo",
+    "url": "https://oglobo.globo.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "oil-gas",
+    "name": "Oil & Gas",
+    "url": "https://www.oilandgas360.com",
+    "type": "media",
+    "type_tags": [
+      "能源行业媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "oman-observer",
+    "name": "Oman Observer",
+    "url": "https://www.omanobserver.om",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "oryx-osint",
+    "name": "Oryx OSINT",
+    "url": "https://www.oryxspioenkop.com",
+    "type": "media",
+    "type_tags": [
+      "OSINT/军情"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "pbs-newshour",
+    "name": "PBS NewsHour",
+    "url": "https://www.pbs.org/newshour",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "pentagon",
+    "name": "Pentagon",
+    "url": "https://www.defense.gov",
+    "type": "government",
+    "type_tags": [
+      "政府国防机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "url": "https://www.politico.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "polsat-news",
+    "name": "Polsat News",
+    "url": "https://www.polsatnews.pl",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "proto-thema",
+    "name": "Proto Thema",
+    "url": "https://www.protothema.gr",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "ransomware-live",
+    "name": "Ransomware.live",
+    "url": "https://ransomware.live",
+    "type": "security-intel",
+    "type_tags": [
+      "网络安全情报"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "repubblica",
+    "name": "Repubblica",
+    "url": "https://www.repubblica.it",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "responsible-statecraft",
+    "name": "Responsible Statecraft",
+    "url": "https://responsiblestatecraft.org",
+    "type": "thinktank",
+    "type_tags": [
+      "政策评论/智库媒体"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "reuters-business",
+    "name": "Reuters Business",
+    "url": "https://www.reuters.com/business",
+    "type": "media",
+    "type_tags": [
+      "财经新闻"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "reuters-us",
+    "name": "Reuters US",
+    "url": "https://www.reuters.com/world/us",
+    "type": "media",
+    "type_tags": [
+      "通讯社"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.86,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "reuters-world",
+    "name": "Reuters World",
+    "url": "https://www.reuters.com/world",
+    "type": "media",
+    "type_tags": [
+      "通讯社"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.86,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "rt",
+    "name": "RT",
+    "url": "https://www.rt.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "rt-russia",
+    "name": "RT Russia",
+    "url": "https://www.rt.com/russia",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "rusi",
+    "name": "RUSI",
+    "url": "https://www.rusi.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "rzeczpospolita",
+    "name": "Rzeczpospolita",
+    "url": "https://www.rp.pl",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "sec",
+    "name": "SEC",
+    "url": "https://www.sec.gov",
+    "type": "government",
+    "type_tags": [
+      "政府监管机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "state-dept",
+    "name": "State Dept",
+    "url": "https://www.state.gov",
+    "type": "government",
+    "type_tags": [
+      "政府外交机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "stimson-center",
+    "name": "Stimson Center",
+    "url": "https://www.stimson.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "svenska-dagbladet",
+    "name": "Svenska Dagbladet",
+    "url": "https://www.svd.se",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "task-purpose",
+    "name": "Task & Purpose",
+    "url": "https://taskandpurpose.com",
+    "type": "media",
+    "type_tags": [
+      "军事媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "tass",
+    "name": "TASS",
+    "url": "https://tass.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "techcrunch-layoffs",
+    "name": "TechCrunch Layoffs",
+    "url": "https://techcrunch.com/tag/layoffs",
+    "type": "media",
+    "type_tags": [
+      "科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "thai-pbs",
+    "name": "Thai PBS",
+    "url": "https://www.thaipbsworld.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "the-diplomat",
+    "name": "The Diplomat",
+    "url": "https://thediplomat.com",
+    "type": "media",
+    "type_tags": [
+      "新闻/信息源"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "the-hill",
+    "name": "The Hill",
+    "url": "https://thehill.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "url": "https://www.theverge.com",
+    "type": "media",
+    "type_tags": [
+      "科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "the-verge-ai",
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "type": "media",
+    "type_tags": [
+      "AI科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "the-war-zone",
+    "name": "The War Zone",
+    "url": "https://www.twz.com",
+    "type": "media",
+    "type_tags": [
+      "军事媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "thisday",
+    "name": "ThisDay",
+    "url": "https://www.thisdaylive.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "tuoi-tre-news",
+    "name": "Tuoi Tre News",
+    "url": "https://tuoitrenews.vn",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "tvn24",
+    "name": "TVN24",
+    "url": "https://tvn24.pl",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "uk-mod",
+    "name": "UK MOD",
+    "url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+    "type": "government",
+    "type_tags": [
+      "政府国防机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "un-news",
+    "name": "UN News",
+    "url": "https://news.un.org",
+    "type": "international-org",
+    "type_tags": [
+      "国际组织媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "usni-news",
+    "name": "USNI News",
+    "url": "https://news.usni.org",
+    "type": "media",
+    "type_tags": [
+      "海军/国防媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "defense",
+      "security"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "vanguard-nigeria",
+    "name": "Vanguard Nigeria",
+    "url": "https://www.vanguardngr.com",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "venturebeat-ai",
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai",
+    "type": "media",
+    "type_tags": [
+      "AI科技媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "technology",
+      "ai"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "vnexpress",
+    "name": "VnExpress",
+    "url": "https://vnexpress.net",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "wall-street-journal",
+    "name": "Wall Street Journal",
+    "url": "https://www.wsj.com",
+    "type": "media",
+    "type_tags": [
+      "综合新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "white-house",
+    "name": "White House",
+    "url": "https://www.whitehouse.gov",
+    "type": "government",
+    "type_tags": [
+      "政府机构"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "who",
+    "name": "WHO",
+    "url": "https://www.who.int",
+    "type": "international-org",
+    "type_tags": [
+      "国际组织"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "policy",
+      "alerts"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.9,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "wilson-center",
+    "name": "Wilson Center",
+    "url": "https://www.wilsoncenter.org",
+    "type": "thinktank",
+    "type_tags": [
+      "智库"
+    ],
+    "task_tags": [
+      "verification",
+      "background"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.78,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "xinhua",
+    "name": "Xinhua",
+    "url": "https://english.news.cn",
+    "type": "media",
+    "type_tags": [
+      "地区新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "yahoo-finance",
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com",
+    "type": "media",
+    "type_tags": [
+      "财经媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "finance",
+      "economy"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": "yonhap-news",
+    "name": "Yonhap News",
+    "url": "https://en.yna.co.kr",
+    "type": "media",
+    "type_tags": [
+      "新闻媒体"
+    ],
+    "task_tags": [
+      "fast_alert",
+      "verification"
+    ],
+    "coverage_topics": [
+      "world",
+      "geopolitics"
+    ],
+    "region": "global",
+    "language": "multi",
+    "reliability_score": 0.75,
+    "signal_to_noise": 0.68,
+    "update_frequency": "daily",
+    "bias_profile": "mixed/unknown",
+    "agent_use_cases": [
+      "fact_crosscheck",
+      "background_monitoring"
+    ],
+    "active": true,
+    "notes": ""
+  }
+]

@@ -1,0 +1,18 @@
+type_tags:
+  - 综合新闻媒体
+  - 财经媒体
+  - 科技媒体
+  - AI科技媒体
+  - 通讯社
+  - 智库
+  - 政府机构
+  - 国际组织
+  - 国防媒体
+  - 聚合/专题监测
+
+task_tags:
+  - fast_alert
+  - verification
+  - background
+  - deep_analysis
+  - discovery
